@@ -1,0 +1,27 @@
+body {
+    width: ;100;
+   display:flex;
+    justify-content: right;
+    align-items: top;
+    background: url('../img/wow.png') bottom center repeat;
+  background-size: cover;
+  font-size: 2rem;
+}
+.centered { 
+  padding: 0 1rem;
+  font-family:'Montserrat', sans-serif; 
+  background: #f1cd59; 
+}
+ .right{
+font-family:'poppins';
+ }
+h1 {
+  font-size: 1.5 rem; 
+  color: #fff; 
+  text-align: right;
+}
+h2 {
+    font-size: 1.5 rem; 
+    color: #f01212; 
+    text-align: right;
+  }
